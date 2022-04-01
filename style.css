@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+header a{
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main h1{
+    text-align: center;
+    color: lightblue;
+    background-color: rgb(255, 0, 0);
+    text-decoration: violet;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+table td{
+    border: 2px solid pink;
+}
+nav{
+    border: 4x solid gray;
+    padding: 10px;
+}
+nav a{
+    color: gray;
+    text-decoration: none;
+}
+.buka{
+    background-color: pink;
+    padding: 10px;
+    nav-index: auto;
+}
+.buhk{
+    background-color: pink;
+    padding: 10px;
+}
+.buha{
+    background-color: pink;
+    padding: 10px;
+}
